@@ -1,0 +1,6 @@
+classes= 2
+train  = ./input/float_train.txt
+valid  = ./input/float_test.txt
+names = ./input/yolov3_voc.names
+backup = ./input/backup
+
